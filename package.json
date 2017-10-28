@@ -1,0 +1,23 @@
+{
+  "name": "constructorclihangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeZaru/constructorCliHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeZaru/constructorCliHangman/issues"
+  },
+  "homepage": "https://github.com/CodeZaru/constructorCliHangman#readme"
+}
